@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProfileViewer</string>
+    <string-array name="filter_array">
+        <item>All</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="sort_array">
+        <item>Default</item>
+        <item>Age (Low to High)</item>
+        <item>Age (High to Low)</item>
+        <item>Name (A-Z)</item>
+        <item>Name (Z-A)</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

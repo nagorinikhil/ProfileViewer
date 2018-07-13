@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "502285122636",
+    "firebase_url": "https://profileviewer-f858f.firebaseio.com",
+    "project_id": "profileviewer-f858f",
+    "storage_bucket": "profileviewer-f858f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502285122636:android:8b7d5a8988cdabc3",
+        "android_client_info": {
+          "package_name": "com.example.nikhil.profileviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502285122636-glrsk9hfsmlp7gi042kcjfb5idvara29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikhil.profileviewer",
+            "certificate_hash": "70d3e3d63a203605159b0b5c57f146584dddea37"
+          }
+        },
+        {
+          "client_id": "502285122636-uieeb2dke2245a1gmr4m5h2pkajudv9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8QbaN4T90srXGNjIX-ERvicdu1boC0Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502285122636-uieeb2dke2245a1gmr4m5h2pkajudv9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
